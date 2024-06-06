@@ -1,5 +1,9 @@
-# Airline-Passenger-Satisfaction-Analysis
+# Airline Passenger Satisfaction Analysis
 
-The data has been explored and analyzed based on various parameters such as age, gender, loyalty status (loyal or disloyal passengers), flight distance, cleanliness of the flight, class type, and travel purpose to identify factors influencing passenger satisfaction.
+Data Exploration and Data analysis has been done with respect 
+to parameters like age,gender,loyal/disloyal passengers,flight 
+distance,cleanliness of flight,type of class and travel to 
+determine factors affecting satisfaction.
 
-A logistic regression model was applied, achieving an accuracy of 82%.
+Logistic regression has been applied and an accuracy of 82% has
+been obtained.
